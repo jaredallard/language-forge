@@ -1,19 +1,19 @@
 {
-  "name": "language-mustache",
-  "version": "0.14.4",
-  "description": "Mustache language support in Atom",
+  "name": "language-forge",
+  "version": "1.0.0",
+  "description": "Forge language support in Atom (mustache+json)",
   "license": "MIT",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-mustache",
+  "homepage": "https://github.com/jaredallard/language-forge",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-mustache.git"
+    "url": "https://github.com/jaredallard/language-forge.git"
   },
   "bugs": {
-    "url": "https://github.com/atom/language-mustache/issues"
+    "url": "https://github.com/jaredallard/language-forge/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
