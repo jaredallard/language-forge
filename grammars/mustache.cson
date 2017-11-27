@@ -1,15 +1,6 @@
-'scopeName': 'text.html.mustache'
-'name': 'HTML (Mustache)'
+'scopeName': 'source.js.mustache'
+'name': 'Forge'
 'fileTypes': [
-  'handlebars'
-  'hbs'
-  'hjs'
-  'mst'
-  'mu'
-  'mustache'
-  'rac'
-  'ractive'
-  'stache'
 ]
 'injections':
   'L:text.html.mustache - (meta.tag.template.mustache | comment.block.mustache)':
@@ -22,7 +13,7 @@
     ]
 'patterns': [
   {
-    'include': 'text.html.basic'
+    'include': 'source.js'
   }
 ]
 'repository':
