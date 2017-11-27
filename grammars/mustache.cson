@@ -1,9 +1,9 @@
-'scopeName': 'source.js.mustache'
+'scopeName': 'source.forge'
 'name': 'Forge'
 'fileTypes': [
 ]
 'injections':
-  'L:text.html.mustache - (meta.tag.template.mustache | comment.block.mustache)':
+  'L:source.forge - (meta.tag.template.mustache | comment.block.mustache)':
     'patterns': [
       {
         # This should be the only pattern here!
