@@ -1,7 +1,8 @@
 'scopeName': 'source.forge'
 'name': 'Forge'
 'fileTypes': [
-  'forge'
+  'forge',
+  'json'
 ]
 'injections':
   'L:source.forge - (meta.tag.template.mustache | comment.block.mustache)':
